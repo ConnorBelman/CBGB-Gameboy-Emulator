@@ -9,4 +9,5 @@ NOT YET IMPLEMENTED:
 - Window and 8x16 sprites
 - Correct sprite priorities
 - Sound
+- Memory block controller (currently ROM only)
 - Various CPU bugs
